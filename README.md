@@ -34,9 +34,10 @@ A página de **detalhe do empreendimento** é configurada como um **drillthrough
 - **DAX**: Para cálculos e inteligência de tempo no modelo de dados.
 
 ## Estrutura do Repositório
-- **/src**: Arquivos do modelo do Power BI.
-- **/docs**: Documentação técnica detalhada.
-- **/screenshots**: Capturas de tela do dashboard.
+- **/capturas de tela**: Imagens do dashboard para ilustrar as funcionalidades.
+- **/docs**: Documentos de apoio, como a documentação técnica e outras análises.
+- **Análise.pbix**: O arquivo principal do Power BI com o dashboard completo.
+- **Bases_Analist.Dados.xlsx**: Fontes de dados utilizadas no modelo do Power BI.
 
 ## Fontes de Dados
 O dashboard é alimentado por 6 fontes principais de dados:
