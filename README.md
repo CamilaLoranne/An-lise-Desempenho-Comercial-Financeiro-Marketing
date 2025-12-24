@@ -48,8 +48,3 @@ O dashboard é alimentado por 6 fontes principais de dados:
 - **Obras**
 - **Marketing**
 
-## Como Rodar o Projeto
-
-1. Baixe e instale o **Power BI Desktop** [aqui](https://powerbi.microsoft.com/desktop/).
-2. Abra o arquivo `.pbix` presente na pasta **/src**.
-3. Conecte as fontes de dados, caso necessário, e execute o modelo.
